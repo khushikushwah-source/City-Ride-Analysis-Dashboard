@@ -47,19 +47,19 @@ This dashboard helps answer questions such as:
 ## 📷 Dashboard Preview
 
 ### Vehicle Type Dashboard
-![Vehicle Dashboard](dashboard1.png)
+![Vehicle Dashboard](dashboard3.png)
 
 ### Revenue Dashboard
-![Revenue Dashboard](dashboard2.png)
+![Revenue Dashboard](dashboard4.png)
 
 ### Cancellation Dashboard
-![Cancellation Dashboard](dashboard3.png)
+![Cancellation Dashboard](dashboard5.png)
 
 ### Ratings Dashboard
-![Ratings Dashboard](dashboard4.png)
+![Ratings Dashboard](dashboard6.png)
 
 ### Summary Dashboard
-![Summary Dashboard](dashboard5.png)
+![Summary Dashboard](dashboard7.png)
 
 ---
 
